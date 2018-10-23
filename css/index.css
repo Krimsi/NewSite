@@ -1,0 +1,47 @@
+
+
+video{
+   position:absolute;
+   z-index:-1;
+   min-width:1000px;
+   min-height:1000px;
+   overflow:hidden;
+}
+ 
+.head{
+
+width: 1920px;
+height: 100px;
+position: absolute;
+background: linear-gradient(45deg, #CD06F8,#000000,#CD06F8);
+}
+
+.Niz{
+width: 1920px;
+height: 140px;
+background: linear-gradient(45deg, #000000, #CD06F8,#000000);
+bottom: -323px;
+position:absolute;
+clear: left;
+}
+
+footer ul {
+	list-style: none;
+}
+
+  .Niz>ul {
+ 
+  color:white;
+  margin-left: 100px;
+  padding-bottom: : 30px;
+  font-family: Tahoma;
+  font-size: 18px;
+  }
+
+ 
+ body{
+  margin:0;
+}
+footer ul {
+	display: inline-block;
+}
