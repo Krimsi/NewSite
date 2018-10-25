@@ -46,3 +46,22 @@ footer ul {
 footer ul {
 	display: inline-block;
 }
+
+.nach{
+  width: 100%;
+  height: 1300px;
+  z-index: 2;
+  background-color: red;
+ position: absolute;
+ margin: 0;
+ margin-bottom: 0;
+ background: linear-gradient(45deg, #000000, #CD06F8,#000000);
+}
+
+.qws {
+  margin-top: 100px;
+  margin-left: 490px;
+  width: 1080px;
+  height: 800px;
+
+}
