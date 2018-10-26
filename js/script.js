@@ -1,3 +1,3 @@
-$(".nach").click(function() {
+$(".qws").click(function() {
 	$(".nach").fadeOut("fast");
 });
